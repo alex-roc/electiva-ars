@@ -1,0 +1,268 @@
+/* General */
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    padding-top: 45px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    padding-bottom: 0px;
+}
+
+.img-portfolio {
+    margin-bottom: 30px;
+    padding: 30px;
+}
+
+.img-hover{
+    transition: all .5s ease-in-out;   
+}
+
+.img-hover:hover {
+    /*opacity: 0.75;*/
+    transform: scale(1.05);
+}
+
+/* Carrusel de página de inicio */
+
+header.carousel {
+    height: 60%;
+}
+
+header.carousel .item,
+header.carousel .item.active,
+header.carousel .carousel-inner {
+    height: 100%;
+}
+
+header.carousel .fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+/* 404 Page Styles */
+
+.error-404 {
+    font-size: 100px;
+}
+
+
+/* Pie de página*/
+
+#myFooter1 {
+    background-color: #414141;
+    color: #ffffff;
+}
+
+#myFooter2 {
+    background-color: #333;
+}
+
+/* Responsive  */
+
+@media(max-width:991px) {
+    .customer-img,
+    .img-related {
+        margin-bottom: 30px;
+    }
+}
+
+@media(max-width:767px) {
+
+
+    header.carousel .carousel {
+       /* height: 70%; */
+    }
+}
+
+/* My tweaks */
+
+.navbar {
+    /* z-index: 1; */
+    -webkit-backface-visibility: hidden; /* Para resolver el parpadeo en Chrome */
+}
+
+blockquote {
+    border-left: 5px solid #eee;
+    font-size: 15px;
+}
+
+/* My media queries */
+
+/* Ajuste el carrusel */
+@media (min-width: 768px) and (max-width: 991px) {
+    header.carousel  {
+       height: 50%; 
+    }
+}
+@media(max-width:480px) {
+    header.carousel  {
+       height: 50%; 
+    }
+}
+
+/* Cambiando de imagenes del carrusel para celulares
+@media (max-width:480px) {
+   #car1-lg{
+       display:none;
+   }
+    #car1-sm{
+        display: inline;
+    }
+     #car2-lg{
+       display:none;
+   }
+    #car2-sm{
+        display: inline;
+    }
+    #car3-lg{
+       display:none;
+   }
+    #car3-sm{
+        display: inline;
+    }
+}
+
+@media (min-width:481px){
+    #car1-lg{
+       display:inline;
+    }
+    #car1-sm{
+        display:none;    
+    }
+    #car2-lg{
+       display:inline;
+    }
+    #car2-sm{
+        display:none;
+        
+    }
+    #car3-lg{
+       display:inline;
+    }
+    #car3-sm{
+        display:none; 
+    }
+    
+}
+*/
+
+
+/* Adecuando el tamaño de la galeria segun distintas pantallas*/
+@media(min-width: 1200px){
+    #p-1{
+        padding-bottom: 20px;
+    }
+    #p-2 {
+        padding-bottom: 28px;
+    }
+    
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    #p-1{
+        padding-bottom: 25px;
+    }
+    #p-2{
+        padding-bottom: 47px;
+    }
+
+}
+    
+    
+/* Others */
+
+.btn-facebook {
+    background-color: #3b5998;
+    color: #fff;
+    
+}
+
+.btn-youtube {
+    background-color: #e52d27;
+    color: #fff;
+}
+
+#dautor {
+    font-size: 11px;
+    
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+.image-post {
+    margin: auto;
+}
+
+figcaption {
+    font-size: 14px; 
+    text-align: center
+}
+
+.breadcrumb {
+    font-size: 14px;
+}
+
+
+
+#myPDF {
+    display: block;
+    margin: auto;
+}
+
+.img-center {
+    margin: 0 auto;
+}
+
+.navbar-default {
+    
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+  background-color: #008cba;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+  background-color: #008cba;
+}
+
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a:hover, .navbar-default .navbar-nav > li > .dropdown-menu > li > a:focus {
+  background-color: #008cba;
+}
+
+
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+    background-color: #008cba;
+  }
+
+
+.thumbnail {
+    background-color: #f5f5f5;
+    border-color: #cccccc;
+    overflow: hidden;
+}
+
+.jumbotron {
+    
+}
+
+
+.glyphicon-remove-sign {
+    border-radius: 100%;
+    background-color: #369;
+    padding-top: 1px;
+}
+
+
+.post-image-link {
+    
+}
+
+.img-hover2:hover {
+    opacity: 0.75;
+}
