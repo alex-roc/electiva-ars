@@ -3,7 +3,7 @@ Sitio de la materia electiva "Análisis de Redes Sociales" (FACSO - UMSS)
 
 ##¿Quién elaboro este sitio web?
 
-Este sitio web fue elaborado por el docente de la materia. Él cree que la docencia implica crear medios didáticos con el objetivo de coadyuvar en el aprendizaje de los estudiantes; desde fichas de práctica, diapositivas, planes de clase, actividades, experiencias, etc. Y dado que el uso de tecnologías de información y comunicación esta extendido entre los estudiantes universitarios, y dadas las ventajas obvias de estos medios digitales, se decidio a elaborar este sitio web.
+Este sitio web fue elaborado por el docente de la materia. Él cree que la docencia implica crear medios didáticos con el objetivo de coadyuvar en el aprendizaje de los estudiantes; desde fichas de práctica, diapositivas, planes de clase, actividades, experiencias, etc. Y dado que el uso de tecnologías de información y comunicación esta extendido entre los estudiantes universitarios, y las ventajas obvias de estos medios digitales, se decidio a elaborar este sitio web.
 
 ##¿Cómo se elaboro este sitio web?
 
