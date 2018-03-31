@@ -7,7 +7,12 @@ Este sitio web fue elaborado por el docente de la materia, que considera que la 
 
 ## ¿Cómo se elaboró?
 
-La Web sin duda que a democratizado el acceso a una gran cantidad de información. Este sitio web es una demostración de ello, pues fue elaborado en base a la información que se encuentra disponible abierta y gratuitamente en la Web. Particularmente se utilizarón las siguientes tecnologías: Bootstrap para la maquetación (por lo que es un sitio "responsivo", adaptado a varias pantallas, incluida la de los celulares), Brackets como editor de código, y los tutoriales de HTML, CSS y JS de Codecademy. Esta alojado en GitHub.
+La Web sin duda que a democratizado el acceso a una gran cantidad de información. Este sitio web es una demostración de ello, pues fue elaborado en base a la información que se encuentra disponible abierta y gratuitamente en la Web. Particularmente se utilizarón las siguientes tecnologías: 
+* [Bootstrap](https://getbootstrap.com/) para la maquetación (por lo que es un sitio "responsivo", adaptado a varias pantallas, incluida la de los celulares), 
+* [Brackets](http://brackets.io/) como editor de código, 
+* y los tutoriales de HTML, CSS y JS de [Codecademy](https://www.codecademy.com/). 
+
+Previamente alojado en [App Engine](https://cloud.google.com/appengine/) ahora alojado en GitHub.
 
 ## Dirección del sitio web
 
