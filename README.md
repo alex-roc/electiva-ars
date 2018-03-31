@@ -1,5 +1,5 @@
 # electiva-ars
-Sitio de la materia electiva "Análisis de Redes Sociales" (FACSO - UMSS)
+Sitio de la materia electiva "Análisis de Redes Sociales" I/2015 (FACSO - UMSS)
 
 ## ¿Quién elaboró este sitio web?
 
